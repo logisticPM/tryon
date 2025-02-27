@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Parser-Free Virtual Try-on via Distilling Appearance Flows, CVPR 2021
 Official code for CVPR 2021 paper 'Parser-Free Virtual Try-on via Distilling Appearance Flows'
 
@@ -95,3 +96,6 @@ If our code is helpful to your work, please cite:
   year={2019}
 }
 ```
+=======
+# tryon
+>>>>>>> 7521913ccfbbbb06575bae3efb93c072b511c8ed
